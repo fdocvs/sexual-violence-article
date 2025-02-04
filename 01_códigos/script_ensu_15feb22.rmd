@@ -1,0 +1,113 @@
+---
+title: "DATOSPUNTOS"
+author: "Metodos Cuantitativos"
+date: "17/2/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+require(pacman)
+p_load(tidyverse, haven, stringr,foreign, rgdal, rgeos, readxl, scales,  janitor, haven)
+
+```
+
+
+
+```{r}
+#Cargar bases 
+
+inp = "C:/Users/L03017350/Desktop/ENSU/inp" #cambiar la carpeta del archivo
+
+out = "C:/Users/L03017350/Desktop/ENSU/out"
+
+
+```
+
+
+
+```{r}
+
+
+#cargamos las bases para obtener el sexo
+soc <- read.dbf(paste(inp, "ENSU_CS_1221.dbf", sep = "/")) %>% 
+  rename(R_SEL = N_REN) %>% 
+  select(UPM:SEXO, ID_PER)
+  
+
+
+#cargamos la base del cuestionario
+prin <- read.dbf(paste(inp, "ENSU_CB_1221.dbf", sep = "/"))
+
+
+sum(prin$FAC_SEL, na.rm = T)
+#43767994
+
+
+
+#juntamos la base sexo + cuestionario
+df <- left_join(soc, prin, by= c("ID_PER", "CVE_ENT", "UPM",  "VIV_SEL","R_SEL"))
+names(df)
+
+#PRUEBAS 
+sum(df$FAC_SEL, na.rm = T)
+#43767994
+             
+             
+
+
+
+```
+#tablas
+
+```{r}
+
+
+
+tf <- prin %>% 
+   select(NOM_ENT, CD, SEXO, FAC_SEL, BP4_1_1:BP4_1_9) %>%
+     filter(FAC_SEL != "") %>% 
+     filter(SEXO != "1") %>% 
+   mutate(BP4_1_1 = ifelse(BP4_1_1 == "1", 1, 0),
+          BP4_1_2 = ifelse(BP4_1_2 == "1", 1, 0),
+          BP4_1_3 = ifelse(BP4_1_3 == "1", 1, 0),
+          BP4_1_4 = ifelse(BP4_1_4 == "1", 1, 0),
+          BP4_1_5 = ifelse(BP4_1_5 == "1", 1, 0),
+          BP4_1_6 = ifelse(BP4_1_6 == "1", 1, 0),
+          BP4_1_7 = ifelse(BP4_1_7 == "1", 1, 0),
+          BP4_1_8 = ifelse(BP4_1_8 == "1", 1, 0),
+          BP4_1_9 = ifelse(BP4_1_9 == "1", 1, 0),
+          total = (BP4_1_1+ BP4_1_2 + BP4_1_3  + BP4_1_4 + BP4_1_5 + BP4_1_6+ BP4_1_7 + BP4_1_8  + BP4_1_9),
+          int_sex = (BP4_1_1 + BP4_1_4 +BP4_1_8),
+          abu_sex = (BP4_1_6 + BP4_1_7 +BP4_1_9),
+          aco_hos = (BP4_1_3),
+          viola_int = (BP4_1_2+ BP4_1_5)) %>% 
+  filter(total >= 1) %>% 
+  mutate(total = ifelse(total >= "1", 1, 0),
+         int_sex = ifelse(int_sex >= "1", 1, 0),
+         abu_sex = ifelse(abu_sex >= "1", 1, 0),
+         aco_hos = ifelse(aco_hos >= "1", 1, 0),
+         viola_int = ifelse(viola_int >= "1", 1, 0))%>% 
+  select(NOM_ENT, CD,  FAC_SEL, total:viola_int) %>% 
+  gather(pregunta, respuesta, total:viola_int) %>% 
+  filter(respuesta != "") %>% 
+  group_by(NOM_ENT, CD, pregunta, respuesta ) %>% 
+  summarise(Total = sum(FAC_SEL, na.rm = T)) %>% 
+  filter(respuesta != 0) %>% 
+  select(-respuesta) %>% 
+  pivot_wider(names_from = pregunta, values_from = Total)
+
+               
+write.csv(tf, paste(out, "resultados_ensu.csv", sep = "/"))
+  
+  
+```
+
+
+
+
+
