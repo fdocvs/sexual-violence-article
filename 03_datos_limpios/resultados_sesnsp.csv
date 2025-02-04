@@ -1,0 +1,91 @@
+CD,ciudad,abu_sexS,aco_hosS,host_sexS,viola_intS,totalS
+1,Aguascalientes,0,0,51,129,180
+2,Mexicali,173,0,43,110,326
+3,Tijuana,329,0,48,264,641
+4,La Paz,70,16,1,42,129
+5,Campeche,34,8,2,52,96
+6,Saltillo,119,60,7,89,275
+7,La Laguna,195,67,2,103,367
+8,Piedras Negras,38,15,0,7,60
+9,Colima,69,0,11,36,116
+10,Manzanillo,39,0,9,38,86
+11,Tuxtla Gutiérrez,36,17,12,67,132
+12,Tapachula,12,10,6,28,56
+13,Chihuahua,270,0,53,153,476
+14,Ciudad Juárez,357,0,34,378,769
+19,Durango,156,22,4,81,263
+20,León,198,28,9,120,355
+21,Acapulco,63,20,1,56,140
+22,Chilpancingo de los Bravo,29,13,2,30,74
+23,Pachuca,49,0,8,44,101
+25,Puerto Vallarta,76,11,4,17,108
+26,Toluca,172,94,7,75,348
+27,Ecatepec de Morelos,241,88,1,178,508
+28,Ciudad Nezahualcóyotl,123,41,1,86,251
+29,Morelia,116,34,8,95,253
+30,Uruapan,30,12,4,28,74
+31,Lázaro Cárdenas,19,4,2,14,39
+32,Cuernavaca,60,10,5,48,123
+33,Tepic,0,3,0,42,45
+35,Oaxaca,37,30,2,38,107
+36,Puebla,187,32,13,157,389
+37,Querétaro,232,239,3,218,692
+38,Cancún,230,36,7,198,471
+39,San Luis Potosí,167,50,13,108,338
+40,Culiacán,91,25,2,56,174
+41,Mazatlán,35,3,1,31,70
+42,Los Mochis,38,14,2,31,85
+43,Hermosillo,61,4,0,74,139
+44,Nogales,10,4,0,9,23
+45,Villahermosa,58,0,43,80,181
+46,Tampico,15,2,1,19,37
+47,Reynosa,76,12,1,67,156
+48,Nuevo Laredo,31,1,0,23,55
+49,Tlaxcala,3,1,0,2,6
+50,Veracruz,43,0,19,24,86
+51,Coatzacoalcos,26,0,12,10,48
+52,Mérida,11,1,0,3,15
+53,Zacatecas,30,13,4,22,69
+54,Fresnillo,20,12,0,21,53
+55,Los Cabos,77,22,3,64,166
+56,Ciudad del Carmen,18,5,1,32,56
+57,Guanajuato,25,3,3,34,65
+58,Ixtapa-Zihuatanejo,19,6,0,11,36
+59,Guadalajara,209,27,9,64,309
+60,Tonalá,73,10,0,17,100
+61,Tlajomulco de Zúñiga,147,6,0,30,183
+62,San Pedro Tlaquepaque,100,10,1,25,136
+63,Zapopan,199,24,5,59,287
+64,Monterrey,165,61,3,149,378
+65,San Pedro Garza García,18,10,2,6,36
+66,Apodaca,50,29,5,60,144
+67,Guadalupe,89,39,4,88,220
+68,Gral. Escobedo,79,27,5,67,178
+69,San Nicolás de los Garza,43,19,0,28,90
+70,Santa Catarina,30,13,1,23,67
+71,Azcapotzalco,50,40,0,25,115
+72,Coyoacán,102,43,0,56,201
+73,Cuajimalpa de Morelos,29,13,0,18,60
+74,Gustavo A. Madero,236,74,0,134,444
+75,Iztacalco,84,29,0,49,162
+76,Iztapalapa,359,104,0,164,627
+77,La Magdalena Contreras,40,13,0,18,71
+78,Milpa Alta,23,6,0,14,43
+79,Álvaro Obregón,146,53,0,74,273
+80,Tláhuac,69,20,0,58,147
+81,Tlalpan,135,39,0,88,262
+82,Xochimilco,104,23,0,66,193
+83,Benito Juárez,74,54,0,43,171
+84,Cuauhtémoc,315,125,0,113,553
+85,Miguel Hidalgo,89,38,0,37,164
+86,Venustiano Carranza,121,44,0,55,220
+87,Tlalnepantla de Baz,78,25,1,42,146
+88,Naucalpan de Juárez,118,47,7,77,249
+89,Cuautitlán Izcalli,72,26,2,70,170
+90,Atizapán de Zaragoza,54,18,2,39,113
+91,Chimalhuacán,82,16,2,49,149
+92,Irapuato,84,11,3,69,167
+93,Chetumal,101,25,6,58,190
+94,Ciudad Obregón,60,4,0,16,80
+95,Ciudad Victoria,74,20,2,52,148
+96,Xalapa,68,0,23,30,121

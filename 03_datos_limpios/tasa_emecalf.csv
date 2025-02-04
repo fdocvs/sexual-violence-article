@@ -1,0 +1,611 @@
+"cvemunicipio","total","pob_estim","municipio","tasa"
+1002,0,50864,"Asientos",0
+1009,0,22743,"Tepezalá",0
+2005,26,107859,"Playas de Rosarito",24.1055452025329
+3001,8,83051,"Comondú",9.63263536862891
+3008,76,330312,"Los Cabos",23.0085494926009
+4008,0,11930,"Tenabo",0
+5006,0,30568,"Castaños",0
+5010,0,87942,"Frontera",0
+5014,0,10994,"Jiménez",0
+5036,0,23781,"Viesca",0
+7009,0,44264,"Arriaga",0
+7012,3,56971,"Berriozábal",5.26583700479191
+7013,0,38101,"Bochil",0
+7015,0,50439,"Cacahoatán",0
+7031,0,140023,"Chilón",0
+7032,0,34628,"Escuintla",0
+7034,0,80805,"Frontera Comalapa",0
+7035,0,15741,"Frontera Hidalgo",0
+7037,0,38185,"Huehuetán",0
+7044,0,29778,"Ixtapa",0
+7046,0,43292,"Jiquipilas",0
+7051,0,51875,"Mapastepec",0
+7052,0,134759,"Las Margaritas",0
+7059,0,239322,"Ocosingo",0
+7065,0,131491,"Palenque",0
+7074,4,49480,"Reforma",8.08407437348424
+7077,0,68779,"Salto de Agua",0
+7079,0,42939,"San Fernando",0
+7080,0,39536,"Siltepec",0
+7081,0,48046,"Simojovel",0
+7084,0,8812,"Solosuchiapa",0
+7085,0,11749,"Soyaló",0
+7086,0,26510,"Suchiapa",0
+7094,0,47217,"Teopisca",0
+7097,0,97839,"Tonalá",0
+7102,0,45900,"Tuxtla Chico",0
+7103,1,34867,"Tuzantán",2.86804141451803
+7107,0,85784,"Villa Corzo",0
+7108,4,115691,"Villaflores",3.45748588913571
+8003,0,9453,"Allende",0
+8005,7,26409,"Ascensión",26.5061153394676
+8007,0,17825,"Balleza",0
+8010,0,25001,"Buenaventura",0
+8011,44,55255,"Camargo",79.6308026422948
+8012,0,10083,"Carichí",0
+8015,0,1819,"Coyame del Sotol",0
+8017,159,181552,"Cuauhtémoc",87.5782145060368
+8019,594,949395,"Chihuahua",62.5661605548797
+8021,19,160245,"Delicias",11.8568442073076
+8026,0,2787,"Gran Morelos",0
+8031,10,42409,"Guerrero",23.5799004928199
+8032,29,117624,"Hidalgo del Parral",24.65483234714
+8036,3,45709,"Jiménez",6.56325887680763
+8037,793,1464930,"Juárez",54.1322793580581
+8045,7,48242,"Meoqui",14.5101778533228
+8050,0,67320,"Nuevo Casas Grandes",0
+8052,11,29996,"Ojinaga",36.6715562074943
+8054,0,8290,"Riva Palacio",0
+10007,72,369760,"Gómez Palacio",19.4720900043271
+10013,0,28301,"Mapimí",0
+10016,0,20881,"Nombre de Dios",0
+10022,3,26935,"Poanas",11.1379246333766
+10027,0,5917,"San Juan de Guadalupe",0
+10028,0,13310,"San Juan del Río",0
+10036,0,24946,"Tlahualilo",0
+11001,1,95581,"Abasolo",1.04623303794687
+11003,34,183034,"San Miguel de Allende",18.5757837341696
+11005,6,99036,"Apaseo el Grande",6.05840300496789
+11007,102,530820,"Celaya",19.2155532949022
+11009,3,87191,"Comonfort",3.44072209287656
+11010,0,12998,"Coroneo",0
+11011,0,101319,"Cortazar",0
+11012,3,29959,"Cuerámaro",10.0136853700057
+11013,2,25606,"Doctor Mora",7.81066937436538
+11014,33,160771,"Dolores Hidalgo Cuna de la Independencia Nacional",20.5260899042738
+11015,23,198035,"Guanajuato",11.6141086171636
+11016,0,22612,"Huanímaro",0
+11017,60,610700,"Irapuato",9.82479122318651
+11018,0,41154,"Jaral del Progreso",0
+11020,754,1679610,"León",44.8913735926793
+11021,45,54378,"Moroleón",82.7540549486925
+11022,0,24758,"Ocampo",0
+11023,10,159968,"Pénjamo",6.25125025005001
+11024,0,12620,"Pueblo Nuevo",0
+11026,35,62603,"Romita",55.907863840391
+11028,8,106978,"Salvatierra",7.47817308231599
+11029,6,41588,"San Diego de la Unión",14.4272386265269
+11031,25,125904,"San Francisco del Rincón",19.856398525861
+11032,3,83562,"San José Iturbide",3.59014863215337
+11034,2,5584,"Santa Catarina",35.8166189111748
+11035,6,88644,"Santa Cruz de Juventino Rosas",6.76864762420468
+11036,0,7327,"Santiago Maravatío",0
+11037,13,201020,"Silao de la Victoria",6.46701820714357
+11039,2,36574,"Tarimoro",5.46836550555039
+11040,0,20238,"Tierra Blanca",0
+11042,0,153094,"Valle de Santiago",0
+11043,0,21521,"Victoria",0
+11044,0,62918,"Villagrán",0
+11046,3,73948,"Yuriria",4.0569048520582
+12001,1,840795,"Acapulco de Juárez",0.118935055512937
+12011,0,62574,"Atoyac de Álvarez",0
+12013,0,13164,"Azoyú",0
+12014,0,15926,"Benito Juárez",0
+12015,0,13737,"Buenavista de Cuéllar",0
+12021,0,78931,"Coyuca de Benítez",0
+12025,0,16569,"Cuautepec",0
+12028,0,133299,"Chilapa de Álvarez",0
+12034,0,38696,"Huitzuco de los Figueroa",0
+12038,0,130796,"Zihuatanejo de Azueta",0
+12040,0,26857,"Leonardo Bravo",0
+12050,0,38809,"Pungarabato",0
+12052,0,45121,"San Luis Acatlán",0
+12053,0,50859,"San Marcos",0
+12057,0,66974,"Técpan de Galeana",0
+12058,0,59123,"Teloloapan",0
+12061,0,44479,"Tixtla de Guerrero",0
+12067,0,22706,"Tlapehuala",0
+12068,0,26968,"La Unión de Isidoro Montes de Oca",0
+12075,1,52924,"Eduardo Neri",1.88950192729197
+13001,2,22119,"Acatlán",9.04200009042
+13005,2,19882,"Ajacuba",10.0593501659793
+13006,0,22078,"Alfajayucan",0
+13009,2,20199,"El Arenal",9.90148027130056
+13012,20,29469,"Atotonilco el Grande",67.8679290101463
+13029,0,49792,"Huichapan",0
+13041,2,49931,"Mixquiahuala de Juárez",4.00552762812682
+13049,0,18829,"Pisaflores",0
+13051,0,185907,"Mineral de la Reforma",0
+13054,6,37993,"San Salvador",15.7923828073592
+13056,0,40098,"Santiago Tulantepec de Lugo Guerrero",0
+13058,0,17607,"Tasquillo",0
+13064,0,11792,"Tepetitlán",0
+13065,0,12533,"Tetepango",0
+13066,0,13444,"Villa de Tezontepec",0
+13080,0,26131,"Yahualica",0
+13084,0,42586,"Zimapán",0
+14003,3,24796,"Ahualulco de Mercado",12.0987256009034
+14007,0,9961,"San Juanito de Escobedo",0
+14008,4,80444,"Arandas",4.97240316244841
+14010,0,7149,"Atemajac de Brizuela",0
+14023,0,113944,"Zapotlán el Grande",0
+14025,4,19292,"Colotlán",20.7339829981339
+14026,0,6561,"Concepción de Buenos Aires",0
+14027,0,19139,"Cuautitlán de García Barragán",0
+14030,0,54828,"Chapala",0
+14031,1,3582,"Chimaltitán",27.9173646007817
+14033,0,22848,"Degollado",0
+14036,0,21176,"Etzatlán",0
+14050,0,49419,"Jocotepec",0
+14051,0,19203,"Juanacatlán",0
+14053,5,175696,"Lagos de Moreno",2.84582460613787
+14056,0,2224,"Santa María del Oro",0
+14058,0,15635,"Mascota",0
+14059,0,14962,"Mazamitla",0
+14063,0,106059,"Ocotlán",0
+14064,0,34061,"Ojuelos de Jalisco",0
+14065,2,12017,"Pihuamo",16.6430889573105
+14067,4852,299434,"Puerto Vallarta",1620.3904700201
+14074,0,16999,"San Julián",0
+14083,0,85654,"Tala",0
+14084,0,16034,"Talpa de Allende",0
+14087,0,17722,"Tecalitlán",0
+14088,0,18483,"Tecolotlán",0
+14093,11,151133,"Tepatitlán de Morelos",7.27835747321895
+14096,0,22538,"Tizapán el Alto",0
+14097,49,644175,"Tlajomulco de Zúñiga",7.6066286335235
+14098,5,708568,"San Pedro Tlaquepaque",0.705648575718915
+14101,5,577668,"Tonalá",0.86554906970786
+14107,0,6681,"Tuxcueca",0
+14108,0,37226,"Tuxpan",0
+14120,0,1433360,"Zapopan",0
+14121,0,31317,"Zapotiltic",0
+15009,1,54548,"Amecameca",1.83324778177018
+15011,5,70016,"Atenco",7.14122486288848
+15020,0,310743,"Coacalco de Berriozábal",0
+15025,8,397344,"Chalco",2.01336876862366
+15026,0,30328,"Chapa de Mota",0
+15030,0,27570,"Chiconcuac",0
+15033,54,1707754,"Ecatepec de Morelos",3.16204792961984
+15039,1,551034,"Ixtapaluca",0.18147700504869
+15047,0,79263,"Jiquipilco",0
+15048,7,70471,"Jocotitlán",9.93316399653758
+15051,0,159948,"Lerma",0
+15054,7,246055,"Metepec",2.84489240210522
+15055,0,13744,"Mexicaltzingo",0
+15058,180,1135786,"Nezahualcóyotl",15.8480558837668
+15060,49,441064,"Nicolás Romero",11.1094988482397
+15070,0,309596,"La Paz",0
+15075,0,29145,"San Martín de las Pirámides",0
+15078,0,10262,"Santo Tomás",0
+15081,13,500585,"Tecámac",2.59696155498067
+15083,0,13690,"Temamatla",0
+15089,1,13344,"Tenango del Aire",7.49400479616307
+15091,0,69466,"Teoloyucan",0
+15092,1,60992,"Teotihuacán",1.6395592864638
+15093,0,33108,"Tepetlaoxtoc",0
+15103,0,51370,"Tlalmanalco",0
+15104,17,756537,"Tlalnepantla de Baz",2.24708110773168
+15106,66,948950,"Toluca",6.95505558775489
+15107,0,13559,"Tonatico",0
+15108,0,160943,"Tultepec",0
+15109,26,556493,"Tultitlán",4.67211627100431
+15115,68,54531,"Xonacatlán",124.699712090371
+15121,0,577190,"Cuautitlán Izcalli",0
+15122,0,419700,"Valle de Chalco Solidaridad",0
+15123,0,29784,"Luvianos",0
+16001,0,12019,"Acuitzio",0
+16004,0,15851,"Angamacutiro",0
+16007,0,3432,"Aporo",0
+16009,1,38656,"Ario",2.58692052980132
+16017,0,35877,"Contepec",0
+16023,0,10785,"Chavinda",0
+16028,0,5345,"Churintzio",0
+16031,0,17519,"Epitacio Huerta",0
+16032,0,16105,"Erongarícuaro",0
+16038,0,42622,"Huetamo",0
+16040,0,17595,"Indaparapeo",0
+16041,0,15916,"Irimbo",0
+16043,10,72669,"Jacona",13.7610260221002
+16047,0,22358,"Jungapeo",0
+16048,0,5862,"Lagunillas",0
+16050,10,92676,"Maravatío",10.7902801156718
+16051,0,14517,"Marcos Castellanos",0
+16058,0,20844,"Nuevo Parangaricutiro",0
+16060,0,10290,"Numarán",0
+16063,0,16536,"Panindícuaro",0
+16068,0,29376,"Peribán",0
+16073,0,29118,"Quiroga",0
+16074,0,10935,"Cojumatlán de Régules",0
+16081,0,9161,"Susupuato",0
+16091,0,15337,"Tingüindín",0
+16094,0,6654,"Tlazazalca",0
+16106,0,33136,"Yurécuaro",0
+16108,2,207985,"Zamora",0.961607808255403
+17005,0,10479,"Coatlán del Río",0
+17020,0,51373,"Tepoztlán",0
+17022,0,22015,"Tetela del Volcán",0
+17024,0,55553,"Tlaltizapán de Zapata",0
+17025,0,36147,"Tlaquiltenango",0
+19006,36,665734,"Apodaca",5.40756518369199
+19009,0,105145,"Cadereyta Jiménez",0
+19014,50,37859,"Doctor Arroyo",132.068992841861
+19018,42,300745,"García",13.9653194566826
+19019,7,137614,"San Pedro Garza García",5.08669176101269
+19021,72,466325,"General Escobedo",15.4398756232241
+19026,71,710413,"Guadalupe",9.99418648025867
+19030,0,3979,"Iturbide",0
+19033,3,88689,"Linares",3.38260663667422
+19046,45,474163,"San Nicolás de los Garza",9.49040730719183
+19048,45,322051,"Santa Catarina",13.9729421737551
+20002,0,47616,"Acatlán de Pérez Figueroa",0
+20005,0,15831,"Asunción Ixtaltepec",0
+20012,0,10829,"Candelaria Loxicha",0
+20020,0,4086,"Constancia del Rosario",0
+20023,0,22761,"Cuilápam de Guerrero",0
+20025,0,12034,"Chahuites",0
+20030,0,9121,"El Espinal",0
+20033,0,2822,"Guadalupe Etla",0
+20037,0,4554,"Mesones Hidalgo",0
+20041,78,32459,"Huautla de Jiménez",240.303151668258
+20044,0,44584,"Loma Bonita",0
+20045,0,9300,"Magdalena Apasco",0
+20057,30,40690,"Matías Romero Avendaño",73.7281887441632
+20059,3,45679,"Miahuatlán de Porfirio Díaz",6.56756934258631
+20064,0,7729,"Nejapa de Madero",0
+20066,0,5572,"Santiago Niltepec",0
+20067,0,258636,"Oaxaca de Juárez",0
+20068,0,22936,"Ocotlán de Morelos",0
+20077,0,4087,"Reyes Etla",0
+20079,0,92577,"Salina Cruz",0
+20083,0,10151,"San Agustín de las Juntas",0
+20087,0,4610,"San Agustín Yatareni",0
+20102,0,4838,"San Andrés Zautla",0
+20103,0,6330,"San Antonino Castillo Velasco",0
+20115,0,10186,"San Bartolo Coyotepec",0
+20124,0,18929,"San Blas Atempa",0
+20157,0,18293,"San Jacinto Amilpas",0
+20184,0,170588,"San Juan Bautista Tuxtepec",0
+20185,0,9264,"San Juan Cacahuatepec",0
+20237,0,1402,"San Marcos Arteaga",0
+20243,0,1885,"San Martín Tilcajete",0
+20295,0,9784,"San Pablo Huixtepec",0
+20310,0,9333,"San Pedro Ixtlahuaca",0
+20324,0,49364,"San Pedro Pochutla",0
+20327,0,15367,"San Pedro Tapanatepec",0
+20334,0,47281,"Villa de Tututepec",0
+20348,0,8531,"San Sebastián Tecomaxtlahuaca",0
+20360,0,3913,"Santa Ana Zegache",0
+20364,0,16319,"Santa Catarina Juquila",0
+20369,0,2006,"Santa Catarina Quiané",0
+20385,0,98970,"Santa Cruz Xoxocotlán",0
+20390,0,52119,"Santa Lucía del Camino",0
+20393,0,3985,"Santa Lucía Ocotlán",0
+20401,0,25179,"Santa María Colotepec",0
+20413,7,46818,"Santa María Huatulco",14.9515143748131
+20439,0,26383,"Santa María Tonameca",0
+20452,0,4108,"Santiago Apóstol",0
+20467,1,19738,"Santiago Jamiltepec",5.06636943965954
+20475,0,10252,"Santiago Matatlán",0
+20482,0,55235,"Santiago Pinotepa Nacional",0
+20483,12,10950,"Santiago Suchilquitongo",109.58904109589
+20520,0,7210,"Santo Domingo Tonalá",0
+20525,0,12641,"Santo Domingo Zanatepec",0
+20545,0,10338,"Teotitlán de Flores Magón",0
+20565,21,46846,"Villa de Zaachila",44.8277334244119
+20570,0,20892,"Zimatlán de Álvarez",0
+21010,0,70090,"Ajalpan",0
+21017,0,30052,"Atempan",0
+21022,0,12950,"Atzitzihuacán",0
+21023,0,9727,"Atzitzintla",0
+21026,33,15345,"Calpan",215.05376344086
+21028,0,2789,"Camocuautla",0
+21029,0,3932,"Caxhuacan",0
+21030,0,795,"Coatepec",0
+21031,0,3119,"Coatzingo",0
+21035,0,21827,"Coxcatlán",0
+21037,0,2449,"Coyotepec",0
+21038,0,10686,"Cuapiaxtla de Madero",0
+21043,0,51238,"Cuetzalan del Progreso",0
+21045,0,50167,"Chalchicomula de Sesma",0
+21046,0,8254,"Chapulco",0
+21047,0,21127,"Chiautla",0
+21049,0,17625,"Chiconcuautla",0
+21055,0,4862,"Chila",0
+21057,0,8363,"Honey",0
+21059,0,2408,"Chinantla",0
+21062,0,5100,"Epatlán",0
+21065,0,21893,"General Felipe Ángeles",0
+21067,0,18052,"Guadalupe Victoria",0
+21070,0,6848,"Huatlatlauca",0
+21071,0,111389,"Huauchinango",0
+21072,0,19663,"Huehuetla",0
+21073,0,8989,"Huehuetlán el Chico",0
+21074,0,78403,"Huejotzingo",0
+21077,0,5785,"Hueytlalpan",0
+21082,0,9411,"Ixcaquixtla",0
+21083,0,25772,"Ixtacamaxtitlán",0
+21085,2,82453,"Izúcar de Matamoros",2.42562429505294
+21092,0,5578,"Juan N. Méndez",0
+21094,3,36010,"Libres",8.33101916134407
+21096,0,3005,"Mazapiltepec de Juárez",0
+21097,0,2501,"Mixtla",0
+21099,0,20442,"Cañada Morelos",0
+21101,0,3644,"Nauzontla",0
+21104,0,33027,"Nopalucan",0
+21106,0,29976,"Ocoyucan",0
+21109,15,23302,"Pahuatlán",64.3721568964037
+21112,0,10239,"Petlalcingo",0
+21113,0,4631,"Piaxtla",0
+21114,175,1698509,"Puebla",10.3031541192893
+21116,0,23329,"Quimixtlán",0
+21126,0,6639,"San Jerónimo Tecuanipan",0
+21128,0,9309,"San José Chiapa",0
+21129,0,14148,"San José Miahuatlán",0
+21135,0,537,"San Miguel Ixitlán",0
+21138,0,12430,"San Nicolás de los Ranchos",0
+21139,0,3778,"San Pablo Anicano",0
+21140,4,139635,"San Pedro Cholula",2.86461130805314
+21141,0,3520,"San Pedro Yeloixtlahuaca",0
+21143,0,33443,"San Salvador el Verde",0
+21146,0,853,"Santa Catarina Tlaltempan",0
+21147,0,6712,"Santa Inés Ahuatempan",0
+21151,0,9100,"Santo Tomás Hueyotlipan",0
+21152,0,13062,"Soltepec",0
+21153,7,23518,"Tecali de Herrera",29.7644357513394
+21154,0,81930,"Tecamachalco",0
+21156,26,339077,"Tehuacán",7.66787484848574
+21157,0,11865,"Tehuitzingo",0
+21159,0,3938,"Teopantlán",0
+21161,24,21821,"Tepanco de López",109.985793501673
+21162,0,4349,"Tepango de Rodríguez",0
+21164,11,85594,"Tepeaca",12.8513680865481
+21167,0,12058,"Tepetzintla",0
+21170,1,18007,"Tepeyahualco",5.55339590159382
+21173,0,6283,"Teteles de Avila Castillo",0
+21176,1,9094,"Tilapa",10.9962612711678
+21178,0,17687,"Tlacuilotepec",0
+21179,0,30963,"Tlachichuca",0
+21180,1,42437,"Tlahuapan",2.35643424370243
+21189,0,22451,"Tochtepec",0
+21190,0,1283,"Totoltepec de Guerrero",0
+21192,0,6767,"Tuzamapan de Galeana",0
+21194,0,31183,"Venustiano Carranza",0
+21196,0,1665,"Xayacatlán de Bravo",0
+21200,0,3624,"Xochiapulco",0
+21201,0,3496,"Xochiltepec",0
+21202,1,13403,"Xochitlán de Vicente Suárez",7.46101619040513
+21204,0,8478,"Yaonáhuac",0
+21207,0,58800,"Zacapoaxtla",0
+21209,0,8979,"Zapotitlán",0
+21213,0,14075,"Zihuateutla",0
+21217,0,19699,"Zoquitlán",0
+22001,1,68441,"Amealco de Bonfil",1.46111249105069
+22003,6,14789,"Arroyo Seco",40.5706944350531
+22004,7,76829,"Cadereyta de Montes",9.1111429278007
+22005,4,69112,"Colón",5.78770691052205
+22006,29,208076,"Corregidora",13.9372152482747
+22007,4,45877,"Ezequiel Montes",8.71896593064063
+22008,2,42305,"Huimilpan",4.72757357286373
+22009,10,29625,"Jalpan de Serra",33.7552742616034
+22010,6,20313,"Landa de Matamoros",29.5377344557672
+22011,16,178672,"El Marqués",8.95495656846064
+22012,202,76411,"Pedro Escobedo",264.359843478033
+22013,1,21988,"Peñamiller",4.54793523740222
+22014,365,976939,"Querétaro",37.3615957598171
+22015,0,10323,"San Joaquín",0
+22016,49,301541,"San Juan del Río",16.2498632026822
+22018,0,31465,"Tolimán",0
+24003,0,50884,"Aquismón",0
+24011,2,47527,"Ciudad Fernández",4.20813432364761
+24012,0,21674,"Tancanhuitz",0
+24013,0,187772,"Ciudad Valles",0
+24014,0,16224,"Coxcatlán",0
+24018,0,16719,"Huehuetlán",0
+24027,0,10793,"San Ciro de Acosta",0
+24035,41,328949,"Soledad de Graciano Sánchez",12.4639381788666
+24037,2,100187,"Tamazunchale",1.996266980746
+24039,0,16069,"Tampamolón Corona",0
+24040,0,40732,"Tamuín",0
+24041,0,20596,"Tanlajás",0
+24053,0,38871,"Axtla de Terrazas",0
+24054,15,54251,"Xilitla",27.6492599214761
+24058,0,23108,"El Naranjo",0
+25004,0,29379,"Concordia",0
+25006,61,962871,"Culiacán",6.33522039816341
+25007,0,34547,"Choix",0
+25008,0,59057,"Elota",0
+25011,0,316217,"Guasave",0
+25015,2,86932,"Salvador Alvarado",2.30064878295679
+26003,0,27922,"Alamos",0
+26007,0,638,"Atil",0
+26010,0,1537,"Bacerac",0
+26016,0,5580,"Benjamín Hill",0
+26019,0,38103,"Cananea",0
+26027,0,9356,"Fronteras",0
+26029,0,171035,"Guaymas",0
+26032,0,990,"Huásabas",0
+26033,0,86918,"Huatabampo",0
+26036,14,33896,"Magdalena",41.3028085909842
+26037,0,1324,"Mazatán",0
+26038,0,5400,"Moctezuma",0
+26039,0,6756,"Naco",0
+26041,0,14231,"Nacozari de García",0
+26067,0,1693,"Villa Hidalgo",0
+26069,0,6387,"Yécora",0
+26070,0,18481,"General Plutarco Elías Calles",0
+26071,0,23843,"Benito Juárez",0
+29002,0,16266,"Apetatitlán de Antonio Carvajal",0
+29003,0,7030,"Atlangatepec",0
+29004,0,18578,"Atltzayanca",0
+29006,3,51966,"Calpulalpan",5.7730054266251
+29007,0,18281,"El Carmen Tequexquitla",0
+29008,0,16363,"Cuapiaxtla",0
+29009,0,5720,"Cuaxomulco",0
+29010,0,77435,"Chiautempan",0
+29011,0,4905,"Muñoz de Domingo Arenas",0
+29012,1,9409,"Españita",10.6281220108407
+29013,0,100247,"Huamantla",0
+29017,0,11601,"Mazatecochco de José María Morelos",0
+29018,0,41267,"Contla de Juan Cuamatzi",0
+29019,0,22733,"Tepetitla de Lardizábal",0
+29020,0,10588,"Sanctórum de Lázaro Cárdenas",0
+29021,0,19402,"Nanacamilpa de Mariano Arista",0
+29023,50,27294,"Natívitas",183.1904447864
+29024,1,29017,"Panotla",3.44625564324362
+29025,1,82542,"San Pablo del Monte",1.21150444622132
+29027,0,13938,"Tenancingo",0
+29029,0,14396,"Tepeyanco",0
+29031,1,34866,"Tetla de la Solidaridad",2.8681236734928
+29033,42,103435,"Tlaxcala",40.6052110020786
+29034,0,45726,"Tlaxco",0
+29037,0,9486,"Ziltlaltépec de Trinidad Sánchez Santos",0
+29038,0,18563,"Tzompantepec",0
+29039,1,25784,"Xaloztoc",3.87837418554142
+29040,0,11627,"Xaltocan",0
+29041,0,32591,"Papalotla de Xicohténcatl",0
+29043,32,41773,"Yauhquemehcan",76.6045053024681
+29044,1,47148,"Zacatelco",2.12098074149487
+29045,0,6446,"Benito Juárez",0
+29050,4,11502,"San Francisco Tetlanohcan",34.7765605981568
+29051,0,4107,"San Jerónimo Zacualpan",0
+29052,0,6421,"San José Teacalco",0
+29053,0,8053,"San Juan Huactzinco",0
+29056,0,8337,"Santa Ana Nopalucan",0
+29057,0,4944,"Santa Apolonia Teacalco",0
+29058,0,9500,"Santa Catarina Ayometla",0
+29059,0,7664,"Santa Cruz Quilehtla",0
+30001,0,9131,"Acajete",0
+30002,0,3344,"Acatlán",0
+30005,0,5690,"Acula",0
+30010,0,68340,"Altotonga",0
+30012,0,8469,"Amatitlán",0
+30013,0,30103,"Naranjos Amatlán",0
+30014,1,48007,"Amatlán de los Reyes",2.08302955818943
+30015,5,35909,"Angel R. Cabada",13.9240858837617
+30017,0,4288,"Apazapan",0
+30018,0,1969,"Aquila",0
+30021,0,25040,"Atoyac",0
+30022,0,22414,"Atzacan",0
+30031,0,17803,"Carrillo Puerto",0
+30032,0,52134,"Catemaco",0
+30033,0,24958,"Cazones de Herrera",0
+30036,0,10965,"Coacoatzintla",0
+30039,21,339108,"Coatzacoalcos",6.19271736437949
+30040,0,59863,"Coatzintla",0
+30042,0,5902,"Colipa",0
+30045,0,59870,"Cosamaloapan de Carpio",0
+30047,0,60872,"Coscomatepec",0
+30052,0,12835,"Cuichapa",0
+30053,3,29555,"Cuitláhuac",10.1505667399763
+30055,0,14137,"Chalma",0
+30057,0,14791,"Chiconquiaco",0
+30060,0,17492,"Chinampa de Gorostiza",0
+30061,0,85144,"Las Choapas",0
+30065,1,84197,"Emiliano Zapata",1.18769077283039
+30067,0,19443,"Filomeno Mata",0
+30072,0,22587,"Huayacocotla",0
+30073,0,45332,"Hueyapan de Ocampo",0
+30077,0,45440,"Isla",0
+30081,0,27351,"Ixhuatlancillo",0
+30084,0,6067,"Ixmatlahuacan",0
+30085,0,72556,"Ixtaczoquitlán",0
+30087,8,513443,"Xalapa",1.55810868976693
+30088,0,5378,"Jalcomulco",0
+30090,0,11971,"Jamapa",0
+30091,0,30389,"Jesús Carranza",0
+30094,0,41108,"Juan Rodríguez Clara",0
+30097,0,20987,"Lerdo de Tejada",0
+30101,0,38503,"Mariano Escobedo",0
+30102,60,111164,"Martínez de la Torre",53.9743082292829
+30103,0,12950,"Mecatlán",0
+30104,0,17526,"Mecayapan",0
+30106,0,4928,"Miahuatlán",0
+30108,0,164357,"Minatitlán",0
+30109,0,67752,"Misantla",0
+30113,0,4817,"Naranjal",0
+30114,0,11519,"Nautla",0
+30116,0,17291,"Oluta",0
+30117,0,25159,"Omealca",0
+30118,0,134420,"Orizaba",0
+30126,22,35445,"Paso de Ovejas",62.0679926646918
+30127,0,28959,"La Perla",0
+30128,0,76977,"Perote",0
+30129,0,19132,"Platón Sánchez",0
+30130,0,39712,"Playa Vicente",0
+30132,18,20667,"Las Vigas de Ramírez",87.0953694295253
+30134,0,23890,"Puente Nacional",0
+30135,0,24439,"Rafael Delgado",0
+30146,0,3839,"Sochiapa",0
+30148,0,29150,"Soledad de Doblado",0
+30150,0,12233,"Tamalín",0
+30151,0,24459,"Tamiahua",0
+30156,0,6179,"Tatatila",0
+30159,0,27267,"Tehuipango",0
+30160,7,110365,"Álamo Temapache",6.3425904951751
+30162,0,7081,"Tenampa",0
+30164,0,17551,"Teocelo",0
+30165,0,8888,"Tepatlaxco",0
+30168,0,15968,"Tequila",0
+30173,120,59388,"Tezonapa",202.061022428773
+30174,60,110811,"Tierra Blanca",54.1462490185992
+30177,0,11825,"Tlacolulan",0
+30183,48,65087,"Tlapacoyan",73.7474457264892
+30186,0,7326,"Tomatlán",0
+30188,0,18306,"Totutla",0
+30192,10,21319,"Vega de Alatorre",46.9065153149772
+30193,0,626918,"Veracruz",0
+30194,0,12406,"Villa Aldama",0
+30196,10,18981,"Yanga",52.684263210579
+30197,0,12549,"Yecuatla",0
+30199,0,11884,"Zaragoza",0
+30201,0,45823,"Zongolica",0
+30204,0,50680,"Agua Dulce",0
+30206,0,31215,"Nanchital de Lázaro Cárdenas del Río",0
+30208,0,25991,"Carlos A. Carrillo",0
+30211,0,31464,"San Rafael",0
+31003,0,11877,"Akil",0
+31013,0,11891,"Conkal",0
+31016,0,3197,"Chacsinkín",0
+31018,0,3388,"Chapab",0
+31020,0,4805,"Chicxulub Pueblo",0
+31025,0,5690,"Dzán",0
+31047,0,6001,"Maní",0
+31056,0,33191,"Oxkutzcab",0
+31062,0,5157,"Sacalum",0
+31066,0,4278,"Santa Elena",0
+31105,0,3377,"Yaxkukul",0
+32005,13,47377,"Calera",27.4394748506659
+32006,0,8712,"Cañitas de Felipe Pescador",0
+32007,0,13933,"Concepción del Oro",0
+32008,0,13230,"Cuauhtémoc",0
+32012,0,8559,"Genaro Codina",0
+32016,0,24286,"General Pánfilo Natera",0
+32017,0,199581,"Guadalupe",0
+32020,1,63035,"Jerez",1.5864202427223
+32024,0,56515,"Loreto",0
+32026,0,18464,"Mazapil",0
+32028,0,2605,"Mezquital del Oro",0
+32032,0,13120,"Morelos",0
+32033,0,4217,"Moyahua de Estrada",0
+32035,0,17636,"Noria de Ángeles",0
+32036,0,45302,"Ojocaliente",0
+32038,0,76871,"Pinos",0
+32042,1,65330,"Sombrerete",1.53069034134395
+32044,0,16372,"Tabasco",0
+32049,4,34792,"Valparaíso",11.4968958381237
+32050,0,10536,"Vetagrande",0
+32052,3,20167,"Villa García",14.8757871770715
+32054,0,20177,"Villa Hidalgo",0
+32056,2,155533,"Zacatecas",1.28590074132178
